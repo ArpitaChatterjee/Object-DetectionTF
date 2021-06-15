@@ -1,4 +1,4 @@
 # Car-Pedestrian-Detection
 
 
-Build using Haar-Casscasde Algorithm
+Build using Haar-Cascasde Algorithm
